@@ -70,3 +70,14 @@ nav a {
 .category-card h3 {
     margin-top: 0;
 }
+.destination-card {
+    background: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    transition: 0.3s;
+}
+
+.destination-card:hover {
+    transform: translateY(-5px);
+}
