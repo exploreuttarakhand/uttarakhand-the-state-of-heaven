@@ -23,3 +23,15 @@ section {
     padding: 25px;
     border-radius: 10px;
 }
+nav {
+    background: white;
+    padding: 15px;
+    text-align: center;
+}
+
+nav a {
+    text-decoration: none;
+    margin: 10px;
+    color: #0f172a;
+    font-weight: bold;
+}
